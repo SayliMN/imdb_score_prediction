@@ -1,1 +1,1 @@
-# imdb_score_prediction
+# imdb_score_predictions
